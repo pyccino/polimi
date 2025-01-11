@@ -22,7 +22,7 @@ switch(x) {
     default -> { }
 }
 ```
-- `abstarct`:
+- `abstract`:
 ```java
 public abstract class Poly {
     public abstract void draw();
